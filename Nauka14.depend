@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532028785 source:c:\users\karina\desktop\programowanie\nauka14\main.cpp
+	<iostream>
+	"add.h"
+
+1531240385 source:c:\users\karina\desktop\programowanie\nauka14\add.cpp
+	<iostream>
+
+1532020217 c:\users\karina\desktop\programowanie\nauka14\add.h
+
